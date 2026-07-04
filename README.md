@@ -6,6 +6,7 @@
 - I'm a senior at Stony Brook Univeristy majoring in Computer Science and Master in Business Administratioin.
 - Currently learning Pytorch for doing Machine Learning and train my own AI model, as well as grinding Leetcode Probelms
 - Contact me if you need hiring 😺! or just want to connect 🧌
+  
 [![LinkedIn logo](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](www.linkedin.com/in/khai-alex-tran) [![Instagram logo](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/alexx_hgk/)
 
 
