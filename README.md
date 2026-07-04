@@ -1,11 +1,12 @@
 
 # 🎩 Hey, my name is Alex 
-
+## About Me:
  Graduating Wohoo!!
 
 - I'm a senior at Stony Brook Univeristy majoring in Computer Science and Master in Business Administratioin.
 - Currently learning Pytorch for doing Machine Learning and train my own AI model, as well as grinding Leetcode Probelms
 - Contact me if you need hiring 😺! or just want to connect 🧌
+[https://www.linkedin.com/in/khai-alex-tran/](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg) [https://www.instagram.com/alexx_hgk/](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)
 
 
 ## 👨‍💻 Tech:
