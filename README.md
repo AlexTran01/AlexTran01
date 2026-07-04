@@ -1,7 +1,7 @@
 
 # 🎩 Hey, my name is Alex 
 
-I like going out!!
+ Graduating Wohoo!!
 
 - I'm a senior at Stony Brook Univeristy majoring in Computer Science and Master in Business Administratioin.
 - Currently learning Pytorch for doing Machine Learning and train my own AI model, as well as grinding Leetcode Probelms
